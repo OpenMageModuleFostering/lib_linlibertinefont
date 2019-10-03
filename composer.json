@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Lib_LinLibertineFont",
+    "name": "OpenMageModuleFostering\/Lib_LinLibertineFont",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Libertine Open Fonts Project fonts for PDF print-outs",
     "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+        {
+            "name": "Magento Core Team",
+            "email": "core@magentocommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
